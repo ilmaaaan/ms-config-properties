@@ -1,8 +1,2 @@
 testProperty:
   field: 2-dev
-
-testProperty:
-  field: 2-master
-
-testProperty:
-  field: 2-test
